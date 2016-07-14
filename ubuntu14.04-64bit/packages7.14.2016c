@@ -1,0 +1,13 @@
+gksu
+openjdk-7-jdk
+netbeans
+build-essential
+netbeans
+default-jdk
+python3 python3-pip
+-q -y --force-yes --no-install-recommends open-vm-tools
+-q -y --force-yes --no-install-recommends open-vm-tools-desktop
+--no-install-recommends ubuntu-mate-core ubuntu-mate-desktop
+xfce4
+lubuntu-desktop
+git
