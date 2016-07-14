@@ -1,0 +1,30 @@
+-q -y --force-yes --no-install-recommends open-vm-tools
+-q -y --force-yes --no-install-recommends open-vm-tools-desktop
+open-vm-toolbox
+gcc binutils make
+build-essential
+open-vm-toolbox-lts-trusty
+open-vm-tools-lts-trusty-desktop
+open-vm-tools-lts-trusty
+open-vm-tools-lts-trusty-dbg
+open-vm-tools-lts-trusty-dev
+xfce4
+--no-install-recommends ubuntu-mate-core ubuntu-mate-desktop
+xubuntu-desktop
+lubuntu-desktop
+lxde
+atom
+ruby
+ruby-dev
+owncloud-files
+owncloud
+python-pip
+build-essential python-dev libssl-dev libffi-dev
+python3 python3-pip
+python-virtualenv
+git
+docker
+docker-engine
+xclip
+zsh
+tmux
