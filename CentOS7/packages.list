@@ -1,4 +1,4 @@
-net-tools
+tsnet-tools
 httpd
 gcc
 nmap
@@ -7,3 +7,9 @@ git
 epel-release
 p7zip
 at
+zsh
+git
+curl
+vim
+perl
+bash
